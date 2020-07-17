@@ -13,7 +13,7 @@ I have some works with **JavaScript** and **Rust**. contact me if you have same 
 
 ### 📫 Contact Me on Social Media
 
-[Facebook][-1] | [Twitter](0) | ✉️ [Email](mailto:lidongjies@gmail.com) | 💬 [Issue](https://github.com/lidongjies/lidongjies/issues/me) Me about everything!
+[Facebook][-1] | [Twitter][0] | ✉️ [Email](mailto:lidongjies@gmail.com) | 💬 [Issue](https://github.com/lidongjies/lidongjies/issues/me) Me about everything!
 
 ### 💻 Open Source Work Stats
 
