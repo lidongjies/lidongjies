@@ -2,8 +2,11 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=lidongjies96&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/lidongjies)![[twitter](https://twitter.com/lidongjies)](https://badgen.net/twitter/follow/lidongjies)
 
-Hi guys, I'm **Li Dongjie**. I am a JavaScript developer from Hangzhou, China. I'm currently working on @netease as a Font-End engineer.  
-I have some works with **JavaScript**, **Rust** contact me if you have same interesting or some questions!
+Hi guys, I'm **Li Dongjie**. Living in Hangzhou, China. I'm currently working at netease as a Fontend engineer. 
+
+Amateur marathon enthusiast🏃，and preparing for triathlon.
+
+I have some works with **JavaScript**, **Rust**. contact me if you have same interesting or some questions!
 
 ### 📫 Contact Me on Social Media
 
