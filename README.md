@@ -1,8 +1,19 @@
-### Hi there 👋
+### 👋 Introduction
+
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=lidongjies96&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/lidongjies)![[twitter](https://twitter.com/lidongjies)](https://badgen.net/twitter/follow/lidongjies)
+
+Hi guys, I'm **Li Dongjie**. I am a JavaScript developer from Hangzhou, China. I'm currently working on @netease as a Font-End engineer.  
+I have some works with **JavaScript**, **Rust** contact me if you have same interesting or some questions!
+
+### 📫 Contact Me on Social Media
+
+[Facebook][-1] | ✉️ [Email](mailto:lidongjies@gmail.com) | 💬 [Issue](https://github.com/lidongjies/lidongjies/issues/me) Me about everything!
+
+### 💻 Open Source Work Stats
+
+![lidongjie's Github stats](https://github-readme-stats.vercel.app/api?username=lidongjies&show_icons=true)
 
 <!--
-**lidongjies/lidongjies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[-1]: https://www.facebook.com/lidongjies
