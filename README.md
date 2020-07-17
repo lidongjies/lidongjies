@@ -6,7 +6,7 @@ Hi guys, I'm **Li Dongjie**. Living in Hangzhou, China. I'm currently working at
 
 Amateur marathon enthusiast🏃，and preparing for triathlon.
 
-I have some works with **JavaScript**, **Rust**. contact me if you have same interesting or some questions!
+I have some works with **JavaScript** and **Rust**. contact me if you have same interesting or some questions!
 
 ### 📫 Contact Me on Social Media
 
