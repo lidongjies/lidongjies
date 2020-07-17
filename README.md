@@ -4,13 +4,16 @@
 
 Hi guys, I'm **Li Dongjie**. Living in Hangzhou, China. I'm currently working at netease as a Fontend engineer. 
 
-Amateur marathon enthusiast🏃，and preparing for triathlon.
+I'm an amateur marathon enthusiast🏃 and preparing for triathlon.
+
+I'm currently learning computer graphics with Rust and OpenGL.
 
 I have some works with **JavaScript** and **Rust**. contact me if you have same interesting or some questions!
 
+
 ### 📫 Contact Me on Social Media
 
-[Facebook][-1] | ✉️ [Email](mailto:lidongjies@gmail.com) | 💬 [Issue](https://github.com/lidongjies/lidongjies/issues/me) Me about everything!
+[Facebook][-1] | [Twitter](0) | ✉️ [Email](mailto:lidongjies@gmail.com) | 💬 [Issue](https://github.com/lidongjies/lidongjies/issues/me) Me about everything!
 
 ### 💻 Open Source Work Stats
 
@@ -30,3 +33,4 @@ Here are some ideas to get you started:
 -->
 
 [-1]: https://www.facebook.com/lidongjies
+[0]: https://twitter.com/lidongjies
