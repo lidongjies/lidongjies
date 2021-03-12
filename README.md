@@ -6,10 +6,9 @@ Hi guys, I'm **Li Dongjie**. Living in Hangzhou, China. I'm currently working at
 
 I'm an amateur marathon enthusiast🏃 and preparing for triathlon.
 
-I'm currently learning computer graphics with Rust and OpenGL.
+I'm currently learning computer graphics with Rust and WebGL.
 
 I have some works with **JavaScript** and **Rust**. contact me if you have same interesting or some questions!
-
 
 ### 📫 Contact Me on Social Media
 
@@ -18,19 +17,6 @@ I have some works with **JavaScript** and **Rust**. contact me if you have same 
 ### 💻 Open Source Work Stats
 
 ![lidongjie's Github stats](https://github-readme-stats.vercel.app/api?username=lidongjies&show_icons=true)
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [-1]: https://www.facebook.com/lidongjies
 [0]: https://twitter.com/lidongjies
